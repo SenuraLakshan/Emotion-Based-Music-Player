@@ -1,4 +1,4 @@
-# emotion_based_music_player
+# Emotion_based_music_player
 
 A new Flutter project.
 
